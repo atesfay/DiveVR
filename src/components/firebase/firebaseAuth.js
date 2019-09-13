@@ -16,4 +16,4 @@ export function signUp(email, password) {
   return fire 
     .auth()
     .createUserWithEmailAndPassword(email, password);
-}
+} // apple
