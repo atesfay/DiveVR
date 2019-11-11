@@ -304,9 +304,9 @@ export default function Homepage() {
         {renderMenu}
         </div> */}
         <div className = "titleView">
-            <label id="title">Experience the Game</label>
+            <label id="title">Experience VR</label>
             <br/>
-            <label id="subtitle">Houston Rockets vs Golden State Warriors</label>
+            <label id="subtitle">Spiderman Far From Home</label>
         </div>
         
         <div className={classes.root} id = "trending">
