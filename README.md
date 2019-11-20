@@ -60,7 +60,7 @@ Since VR/AR industry is bound to grow exponentially for the next five years, we 
 
 Quick start options:
 
-## How to set up and run project locally? (By Dominic Pham)
+## How to set up and run project locally? 
 
 ### Setting Up Project on Mac
 
